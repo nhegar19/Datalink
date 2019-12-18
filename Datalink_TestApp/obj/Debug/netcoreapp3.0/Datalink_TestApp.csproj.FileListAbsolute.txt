@@ -1,0 +1,15 @@
+/Users/naimhegar/Projects/Datalink_TestApp/Datalink_TestApp/bin/Debug/netcoreapp3.0/examples/new_users.csv
+/Users/naimhegar/Projects/Datalink_TestApp/Datalink_TestApp/bin/Debug/netcoreapp3.0/examples/users.csv
+/Users/naimhegar/Projects/Datalink_TestApp/Datalink_TestApp/bin/Debug/netcoreapp3.0/Datalink_TestApp
+/Users/naimhegar/Projects/Datalink_TestApp/Datalink_TestApp/bin/Debug/netcoreapp3.0/Datalink_TestApp.deps.json
+/Users/naimhegar/Projects/Datalink_TestApp/Datalink_TestApp/bin/Debug/netcoreapp3.0/Datalink_TestApp.runtimeconfig.json
+/Users/naimhegar/Projects/Datalink_TestApp/Datalink_TestApp/bin/Debug/netcoreapp3.0/Datalink_TestApp.runtimeconfig.dev.json
+/Users/naimhegar/Projects/Datalink_TestApp/Datalink_TestApp/bin/Debug/netcoreapp3.0/Datalink_TestApp.dll
+/Users/naimhegar/Projects/Datalink_TestApp/Datalink_TestApp/bin/Debug/netcoreapp3.0/Datalink_TestApp.pdb
+/Users/naimhegar/Projects/Datalink_TestApp/Datalink_TestApp/bin/Debug/netcoreapp3.0/CsvHelper.dll
+/Users/naimhegar/Projects/Datalink_TestApp/Datalink_TestApp/obj/Debug/netcoreapp3.0/Datalink_TestApp.AssemblyInfoInputs.cache
+/Users/naimhegar/Projects/Datalink_TestApp/Datalink_TestApp/obj/Debug/netcoreapp3.0/Datalink_TestApp.AssemblyInfo.cs
+/Users/naimhegar/Projects/Datalink_TestApp/Datalink_TestApp/obj/Debug/netcoreapp3.0/Datalink_TestApp.csproj.CopyComplete
+/Users/naimhegar/Projects/Datalink_TestApp/Datalink_TestApp/obj/Debug/netcoreapp3.0/Datalink_TestApp.dll
+/Users/naimhegar/Projects/Datalink_TestApp/Datalink_TestApp/obj/Debug/netcoreapp3.0/Datalink_TestApp.pdb
+/Users/naimhegar/Projects/Datalink_TestApp/Datalink_TestApp/obj/Debug/netcoreapp3.0/Datalink_TestApp.csprojAssemblyReference.cache
